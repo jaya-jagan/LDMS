@@ -18,3 +18,4 @@ We can generate this different methods based on design requirement.
 
 I have done in method 2 & 3.
 
+I have uploaded as sql file. It should be run in @[FULLPATH]/Filename.sql in SQLPLUS command prompt or in SQL Developer Tool.
