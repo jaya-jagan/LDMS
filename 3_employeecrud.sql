@@ -8,7 +8,6 @@ procedure RepDeptSal(p_deptid employees.department_id%TYPE);
 end EmployeeCRUD;
 /
 
-
 CREATE OR REPLACE package body EmployeeCRUD is
    v_code NUMBER;
    v_errm VARCHAR2(100);
