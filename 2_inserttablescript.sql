@@ -14,7 +14,6 @@ insert into Employees values(90007,'Louise Harper','Engineer',90006,to_date('01/
 insert into Employees values(90008,'Tina Hart','Engineer',90009,to_date('28/07/14','dd/mm/yy'),45000,3);
 insert into Employees values(90009,'Gus Jones','Manager',90001,to_date('15/05/18','dd/mm/yy'),50000,3);
 insert into Employees values(90010,'Mildred Hall','Secretary',90001,to_date('12/10/96','dd/mm/yy'),35000,1);
-
 commit;
 end;
 /
