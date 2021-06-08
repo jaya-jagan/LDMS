@@ -17,4 +17,4 @@ RIGHT 'PAGE:' FORMAT 999 SQL.PNO
 column employee_name heading "Employee Name" FORMAT A20 WORD_WRAPPED 
 select Employee_name from employees 
 where department_id = '&deptid';
-spool off ;
+spool off;
