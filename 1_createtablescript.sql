@@ -11,3 +11,4 @@ Date_Hired Date NOT NULL,Salary Number(10) NOT NULL,
 Department_Id Number(5) NOT NULL, Constraint FK_DEPARTMENTID FOREIGN KEY(Department_Id) references departments(department_id)
 );
 /
+
